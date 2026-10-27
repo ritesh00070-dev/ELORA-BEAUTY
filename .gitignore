@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+.env
+.env.local
+.env.*.local
+*.local
+.DS_Store
+*.tsbuildinfo
+test-results
+playwright-report
+test-artifacts
